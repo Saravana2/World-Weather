@@ -38,5 +38,10 @@ GMSServices.provideAPIKey("YourGoogleMapAPI_TOKEN")
 ```  
 
 
+# ScreenShots
+
+<img src="weather_application/screenshots/splash_framed.png" width="230" height="400"/>  <img src="weather_application/screenshots/side_menu_framed.png" width="230" height="400"/> <img src="weather_application/screenshots/citylist_framed.png" width="230" height="400"/> <img src="weather_application/screenshots/loading_framed.png" width="230" height="400"/> <img src="weather_application/screenshots/location_permission_framed.png" width="230" height="400"/> <img src="weather_application/screenshots/near_by_locations_weather_framed.png" width="230" height="400"/> <img src="weather_application/screenshots/near_by_locations_weather_2_framed.png" width="230" height="400"/>
+
+
  
   
