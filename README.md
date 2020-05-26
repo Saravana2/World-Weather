@@ -32,6 +32,7 @@ https://developers.google.com/maps/documentation/android-sdk/get-api-key
   android:value="YourGoogleMapAPI_TOKEN"/>
 ```
 # iOS
+In AppDelegate.swift file
 
 ```sh
 GMSServices.provideAPIKey("YourGoogleMapAPI_TOKEN")
