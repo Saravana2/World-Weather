@@ -22,10 +22,11 @@ String apiToken = 'YourOpenWeatherMapAPIToken';
 
 # Update your google map API token 
 
+Follow the steps given in the below site to get google map API token and enable google map sdk for Android and iOS 
+https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
 # Android 
 In AndroidManifest.xml file 
-Follow the steps given in the below site to get API token 
-https://developers.google.com/maps/documentation/android-sdk/get-api-key
 
 ```sh
   <meta-data android:name="com.google.android.geo.API_KEY"
