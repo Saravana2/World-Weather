@@ -47,9 +47,4 @@ GMSServices.provideAPIKey("YourGoogleMapAPI_TOKEN")
 <img src="weather_application/screenshots/splash_framed.png" width="230" height="400"/>  <img src="weather_application/screenshots/side_menu_framed.png" width="230" height="400"/> <img src="weather_application/screenshots/citylist_framed.png" width="230" height="400"/> <img src="weather_application/screenshots/loading_framed.png" width="230" height="400"/> <img src="weather_application/screenshots/location_permission_framed.png" width="230" height="400"/> <img src="weather_application/screenshots/near_by_locations_weather_framed.jpg" width="230" height="400"/> <img src="weather_application/screenshots/near_by_locations_weather_2_framed.jpg" width="230" height="400"/> <img src="weather_application/screenshots/bottom_dialog_framed.png" width="230" height="400"/> <img src="weather_application/screenshots/city_weather_framed.png" width="230" height="400"/>
 
 
-### Play Store Link
-
-<a href='https://play.google.com/store/apps/details?id=com.app.weather_application&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank">
- <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="300" height="125"/>
-</a>  
   
